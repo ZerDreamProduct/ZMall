@@ -1,4 +1,4 @@
-# mall
+# Zmall
 
 ## 说明
 
@@ -161,8 +161,4 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - [MongoDB实战(第二版)](https://book.douban.com/subject/27061123/)
 - [Kubernetes权威指南](https://book.douban.com/subject/26902153/)
 
-## 许可证
 
-[MIT](https://github.com/macrozheng/mall/blob/master/LICENSE)
-
-Copyright (c) 2018-2019 macrozheng
